@@ -33,9 +33,11 @@ mempermudah routing sehingga didapatkan subnet sebagai berikut
 
 ![image (4)](https://user-images.githubusercontent.com/52096462/102014929-1eb72680-3d8b-11eb-86bb-837456f60f07.png)
 
-**Dari pembagian di atas didapatkan tree sebagai berikut**
+**Gabungan dari semua class**
 
 ![image](https://user-images.githubusercontent.com/52096462/102014486-d39c1400-3d88-11eb-902e-8819ad896488.png)
+
+**Dari pembagian di atas didapatkan tree sebagai berikut**
 
 ![image](https://user-images.githubusercontent.com/52096462/102014351-08f43200-3d88-11eb-9cce-8c23df0683da.png)
 ![image](https://user-images.githubusercontent.com/52096462/102014361-15788a80-3d88-11eb-8a8b-3954962bc05a.png)
