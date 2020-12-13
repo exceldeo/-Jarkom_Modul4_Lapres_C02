@@ -15,21 +15,23 @@ mempermudah routing sehingga didapatkan subnet sebagai berikut
 
 **Class B**
 
+![image](https://user-images.githubusercontent.com/52096462/102014927-1d85f980-3d8b-11eb-9d8d-25e1c42189d6.png)
 
 **Class C**
 
+![image (1)](https://user-images.githubusercontent.com/52096462/102014925-1bbc3600-3d8b-11eb-93c4-b53cb13e7a85.png)
 
 **Class D**
 
+![image (2)](https://user-images.githubusercontent.com/52096462/102014920-1828af00-3d8b-11eb-8ae8-399dbfe2610d.png)
 
 **Class E**
 
+![image (3)](https://user-images.githubusercontent.com/52096462/102014933-2080ea00-3d8b-11eb-8fb2-9298066b8ed6.png)
 
 **Class F**
 
-
-**Class G**
-
+![image (4)](https://user-images.githubusercontent.com/52096462/102014929-1eb72680-3d8b-11eb-86bb-837456f60f07.png)
 
 **Dari pembagian di atas didapatkan tree sebagai berikut**
 
